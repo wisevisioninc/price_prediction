@@ -1,7 +1,6 @@
-# HMG-Net: Hierarchical Multi-Granularity Interaction Network
+# HMG-Net：一种面向非标品融合多模态折旧建模的多粒度分层交互商品价值预估网络
 
 **Paper Title:** HMG-Net: A Hierarchical Multi-Granularity Interaction Network with Market-Guided Depreciation Modeling for Non-Standard Item Valuation  
-**(HMG-Net：一种面向非标品融合多模态折旧建模的多粒度分层交互商品价值预估网络)**
 
 ---
 
